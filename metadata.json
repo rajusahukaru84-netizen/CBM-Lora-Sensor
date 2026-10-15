@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Motor CBM System",
+  "description": "Condition-Based Monitoring (CBM) system for industrial motor vibration using ESP32, SX1262 LoRaWAN IN865, MPU6050, RAK7268V2 gateway, and real-time dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
